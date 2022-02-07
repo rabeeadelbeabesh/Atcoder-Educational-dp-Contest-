@@ -4,8 +4,8 @@
   <thead>
     <tr>
       <th width="1%" class="text-center">#</th>
-      <th width="20%" class="text-center">Task Name</th>
-      <th width="20%" class="text-center">Solution</th>
+      <th width="30%" class="text-center">Task Name</th>
+      <th width="30%" class="text-center">Solution</th>
     </tr>
   </thead>
   <tbody>
