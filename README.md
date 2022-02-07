@@ -3,7 +3,7 @@
 <table class="table table-striped table-dark">
   <thead>
     <tr>
-      <th width="1%" class="text-center" scope="col">#</th>
+      <th width="1%" class="text-center" >#</th>
       <th width="10%" class="text-center" scope="col">Task Name</th>
       <th width="1%" class="text-center" scope="col">Solution</th>
     </tr>
