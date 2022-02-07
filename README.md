@@ -4,7 +4,7 @@
   <thead>
     <tr>
       <th width="1%" class="text-center">#</th>
-      <th width="50%" class="text-center">Task Name</th>
+      <th width="40%" class="text-center">Task Name</th>
       <th width="50%" class="text-center">Solution</th>
     </tr>
   </thead>
