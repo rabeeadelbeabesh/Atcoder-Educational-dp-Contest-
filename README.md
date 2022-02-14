@@ -44,10 +44,34 @@
      <td><a href="https://atcoder.jp/contests/dp/tasks/dp_g">Longest Path</a></td>
      <td><a href="https://github.com/rabeeadelbeabesh/atcoder-online-judge-solutions/blob/main/atcoder%20educational%20dp%20contest%20Longest%20Path.cpp"> Longest Path.cpp</a></td>
     </tr>
-         <tr>
+     <tr>
       <th scope="row">H</th>
      <td><a href="https://atcoder.jp/contests/dp/tasks/dp_h">Grid 1</a></td>
      <td><a href="https://github.com/rabeeadelbeabesh/atcoder-online-judge-solutions/blob/main/atcoder%20educational%20dp%20contest%20Grid%201.cpp">Grid 1.cpp</a>      </td>
+    </tr>
+    
+    <tr>
+      <th scope="row">I</th>
+     <td><a href="https://atcoder.jp/contests/dp/tasks/dp_i">Coins</a></td>
+     <td><a href="https://github.com/rabeeadelbeabesh/Atcoder-online-judge-solutions/blob/main/Coins.cpp">Coins.cpp</a>      </td>
+    </tr>
+    
+     <tr>
+      <th scope="row">K</th>
+     <td><a href="https://atcoder.jp/contests/dp/tasks/dp_k">Stones</a></td>
+     <td><a href="https://github.com/rabeeadelbeabesh/Atcoder-online-judge-solutions/blob/main/Stones%20.cpp">Stones.cpp</a>      </td>
+    </tr>
+    
+     <tr>
+      <th scope="row">L</th>
+     <td><a href="https://atcoder.jp/contests/dp/tasks/dp_l">Deque </a></td>
+     <td><a href="https://github.com/rabeeadelbeabesh/Atcoder-online-judge-solutions/blob/main/Deque.cpp">Deque.cpp</a>      </td>
+    </tr>
+    
+    <tr>
+     <th scope="row">M</th>
+     <td><a href="https://atcoder.jp/contests/dp/tasks/dp_m">Candies  </a></td>
+     <td><a href="https://github.com/rabeeadelbeabesh/Atcoder-online-judge-solutions/blob/main/Candies.cpp">Candies.cpp</a>      </td>
     </tr>
   </tbody>
 </table>
